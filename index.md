@@ -10,11 +10,11 @@ My GitHub page is [http://github.com/Jergre555/](http://github.com/Jergre555/).
 
 * Lab 1
 
-Lab 1 was one of my favorite labs because it was the start of my journey into becoming a programmer. Despite being simple, it taught me how a small program would work, along with how to print out messages using the std::cout command. It also taught me how to work in pairs and also what to expect when doing so.
+Lab 1 was one of my favorite labs because it was the start of my journey into becoming a programmer. Despite being simple, this lab taught me how a small program would work, along with how to print out messages using the std::cout command. It also taught me how to work in pairs and also what to expect when doing so.
 
 * Lab 11, Part 2
 
-Lab 11, part 2 was another one of my favorite labs since it taught me more how to create random number generators. It also taught me that objects allow you to organize code more efficiently in order to make sure that managing the properties of your program is easier on the programmer. I even learned how to create a small game from this, which was another reason that this lab is a favorite of mine.
+Lab 11, part 2 was another one of my favorite labs since it taught me more things on how to create random number generators, along with the introduction to object-oriented classes and how they work. The lab also taught me that object-oriented classes allow you to organize code more efficiently in order to make sure that managing the properties of your program is easier on the programmer. I even learned how to create a small game from this, which was another reason that this lab is a favorite of mine.
 
 * Lab 12, part 2
 
