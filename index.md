@@ -4,7 +4,7 @@ This is my home page! My name is Jeremy Gregorio and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Jergre555.
+My GitHub page is [http://github.com/Jergre555].
 
 ### CPSC 120
 
